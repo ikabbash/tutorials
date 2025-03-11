@@ -1,0 +1,8 @@
+services:
+  fluentd:
+    container_name: fluentd
+    hostname: fluentd
+    build: .
+    volumes:
+    - ./conf:/fluentd/etc/
+    - ./logs:/var/log/fluentd/
