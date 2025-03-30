@@ -1,10 +1,9 @@
 # Collecting Data from Azure Event Hub with Fluentd
 This repo sets up Fluentd to consume data from Azure Event Hub using the Kafka Fluentd [plugin](https://github.com/fluent/fluent-plugin-kafka).
 
-<!-- For detailed guide, checkout [this article]() -->
-<!-- [![Hashnode](https://img.shields.io/badge/Read%20on-Hashnode-2962FF?style=flat&logo=hashnode)](<hashnode-article-link>)
-[![Medium](https://img.shields.io/badge/Read%20on-Medium-000000?style=flat&logo=medium)](<medium-article-link>)
-[![Dev.to](https://img.shields.io/badge/Read%20on-Dev.to-0A0A0A?style=flat&logo=devdotto)](<devto-article-link>) -->
+[![Hashnode](https://img.shields.io/badge/Read%20on-Hashnode-2962FF?style=flat&logo=hashnode)](https://ikabbash.hashnode.dev/configuring-fluentd-to-collect-data-from-azure-event-hub)
+[![Medium](https://img.shields.io/badge/Read%20on-Medium-000000?style=flat&logo=medium)](https://medium.com/@ikabbash/configuring-fluentd-to-collect-data-from-azure-event-hub-ae2603602f03)
+[![Dev.to](https://img.shields.io/badge/Read%20on-Dev.to-0A0A0A?style=flat&logo=devdotto)](https://dev.to/ikabbash/configuring-fluentd-to-collect-data-from-azure-event-hub-41g7)
 
 
 ## Setup Steps
